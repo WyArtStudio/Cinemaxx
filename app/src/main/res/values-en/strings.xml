@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cinemaxx</string>
+    <string name="grid_mode">Grid Mode</string>
+    <string name="home">Home</string>
+    <string name="tv_shows_airing_today">Tv Shows Airing Today</string>
+    <string name="movies_now_playing">Movies Now Playing</string>
+    <string name="favorite">Favorite</string>
+    <string name="maximalize_your_experiences">Maximalize Your Experiences</string>
+    <string name="logo">Logo</string>
+    <string name="poster">Poster</string>
+    <string name="title">Title</string>
+    <string name="_2018">2018</string>
+    <string name="_8_3">8.3</string>
+    <string name="vote">Vote</string>
+    <string name="desc">A boy kidnapped by the foxy Lady. Original Knight comes to save but sadly the boy had been captured by The Foxy Lady. So the Knight runs into lightspeed and go to the Magic Castle. He got many challenges but with brave he can come to the top castle and finally can save the boy.</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="icon">Icon</string>
+    <string name="language">Language</string>
+    <string name="score">Score</string>
+    <string name="id">Indonesian</string>
+    <string name="popularity">Popularity</string>
+    <string name="number">122.300</string>
+    <string name="add">ADD</string>
+    <string name="rate">8.3</string>
+    <string name="date">October 25, 2018</string>
+    <string name="empty_data">Empty</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">Tv Shows</string>
+    <string name="tab_text_1_fav">Favorite Movies</string>
+    <string name="tab_text_2_fav">Favorite Tv Shows</string>
+    <string name="added_to_fav">Added to Favorite</string>
+    <string name="removed_from_fav">Removed from Favorite</string>
+    <string name="other">Other</string>
+</resources>

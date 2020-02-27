@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/menu_fav"
+        android:icon="@drawable/ic_favorite"
+        android:title="@string/favorite" />
+    <item
+        android:id="@+id/menu_movie_now_playing"
+        android:icon="@drawable/ic_play"
+        android:title="@string/movies_now_playing" />
+    <item
+        android:id="@+id/menu_tv_airing_today"
+        android:icon="@drawable/ic_live_tv"
+        android:title="@string/tv_shows_airing_today" />
+
+    <item android:title="@string/other">
+        <menu>
+            <group>
+
+                <item
+                    android:id="@+id/nav_grid"
+                    android:icon="@drawable/ic_grid"
+                    android:title="@string/grid_mode"/>
+            </group>
+
+        </menu>
+    </item>
+</menu>

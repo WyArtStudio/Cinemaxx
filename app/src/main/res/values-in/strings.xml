@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cinemaxx</string>
+    <string name="grid_mode">Mode Grid</string>
+    <string name="home">Beranda</string>
+    <string name="tv_shows_airing_today">Acara Tv Hari Ini</string>
+    <string name="movies_now_playing">Film Sedang Diputar</string>
+    <string name="favorite">Favorit</string>
+    <string name="maximalize_your_experiences">Maximalize Your Experiences</string>
+    <string name="logo">Logo</string>
+    <string name="poster">Poster</string>
+    <string name="title">Title</string>
+    <string name="_2018">2018</string>
+    <string name="_8_3">8.3</string>
+    <string name="vote">Vote</string>
+    <string name="desc">A boy kidnapped by the foxy Lady. Original Knight comes to save but sadly the boy had been captured by The Foxy Lady. So the Knight runs into lightspeed and go to the Magic Castle. He got many challenges but with brave he can come to the top castle and finally can save the boy.</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="icon">Icon</string>
+    <string name="language">Bahasa</string>
+    <string name="score">Skor</string>
+    <string name="id">Indonesian</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="number">122.300</string>
+    <string name="add">ADD</string>
+    <string name="rate">8.3</string>
+    <string name="date">October 25, 2018</string>
+    <string name="empty_data">Empty</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara Tv</string>
+    <string name="tab_text_1_fav">Film Favorit</string>
+    <string name="tab_text_2_fav">Acara Tv Favorit</string>
+    <string name="added_to_fav">Ditambahkan ke Favorit</string>
+    <string name="removed_from_fav">Dihapus dari Favorit</string>
+    <string name="other">Lainnya</string>
+</resources>
